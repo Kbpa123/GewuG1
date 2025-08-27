@@ -1,7 +1,7 @@
 需要安装
-unitree_sdk2_python
-unitree_ros2
-ROS-TCP-Endpoint
+unitree_sdk2_python;
+unitree_ros2;
+ROS-TCP-Endpoint;
 
 运行流程：
 source ros(包括ROS-TCP-Endpoint，unitree_ros2,系统 ros）
