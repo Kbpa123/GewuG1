@@ -19,7 +19,7 @@
 source /opt/ros/<ros版本>/setup.bash
 
 - **加载 Unitree ROS2**
-source ~/unitree_ros2/install/setup.bash
+source ~/unitree_ros2/setup.sh
 
 - **加载 ROS-TCP-Endpoint**
 source ~/ros_tcp_endpoint/install/setup.bash
