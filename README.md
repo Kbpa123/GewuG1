@@ -9,7 +9,7 @@
 请确保已经安装以下组件：
 
 - **Unitree SDK 2 Python**
-- **unitree_ros2**
+- **unitree_ros2（humble）**
 - **ROS-TCP-Endpoint**
 
 
@@ -47,9 +47,11 @@ python3 bridge.py
 
 确保 ROS-TCP Connector 端口与 Endpoint 一致（默认 10000）
 
-🔹 提示：source → 启动 Endpoint → 运行 bridge → 启动 Unity
+🔹 提示：source → 打开机器人与计算机的有线连接 → 启动 Endpoint → 运行 bridge → 启动 Unity
 
 🔹 提示：注意修改unity中Ros Connection组件的ip为本地ip
+
+
 
 
 
