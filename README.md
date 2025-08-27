@@ -49,11 +49,7 @@ python3 bridge.py
 
 🔹 提示：source → 启动 Endpoint → 运行 bridge → 启动 Unity
 
-🔹 提示：<img width="299" height="45" alt="image" src="https://github.com/user-attachments/assets/6d87e99a-4101-4127-9087-5325059f741c" />
-
-        注意修改ip为以下ip
-        
-        <img width="567" height="361" alt="image" src="https://github.com/user-attachments/assets/e72fdae4-fad3-4511-b315-92b17742ddf3" />
+🔹 提示：注意修改ip为本地ip
 
 
 
