@@ -49,7 +49,7 @@ python3 bridge.py
 
 🔹 提示：source → 启动 Endpoint → 运行 bridge → 启动 Unity
 
-🔹 提示：注意修改ip为本地ip
+🔹 提示：注意修改unity中Ros Connection组件的ip为本地ip
 
 
 
