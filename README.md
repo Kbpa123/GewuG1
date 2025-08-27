@@ -9,7 +9,7 @@
 请确保已经安装以下组件：
 
 - **Unitree SDK 2 Python**
-- **unitree_ros2（humble）**
+- **unitree_ros2**
 - **ROS-TCP-Endpoint**
 
 
