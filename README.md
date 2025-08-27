@@ -16,13 +16,19 @@
 ## ⚙️ 配置 ROS 环境
 
 - **加载系统 ROS**
+```bash
 source /opt/ros/<ros版本>/setup.bash
+```
 
 - **加载 Unitree ROS2**
+```bash
 source ~/unitree_ros2/setup.sh
+```
 
 - **加载 ROS-TCP-Endpoint**
+```bash
 source ~/ros_tcp_endpoint/install/setup.bash
+```
 
 ## ▶️ 运行流程
 
