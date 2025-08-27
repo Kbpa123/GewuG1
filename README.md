@@ -28,12 +28,12 @@ source ~/ros_tcp_endpoint/install/setup.bash
 1. **启动 ROS TCP Endpoint**
 ```bash
 ros2 run ros_tcp_endpoint default_server_endpoint --ros-args -p ros__parameters.ros_tcp_port:=10000
-**```**
+```
 
 2. **运行对应的bridge.py**
 ```bash
 python3 bridge.py
-
+```
 3.**启动 Unity**
 
 打开 Unity 项目，运行对应场景
