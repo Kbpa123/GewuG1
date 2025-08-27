@@ -11,7 +11,7 @@
 - **Unitree SDK 2 Python**
 - **unitree_ros2**
 - **ROS-TCP-Endpoint**
-- **Ros2(humble)**
+
 
 
 ## ⚙️ 配置 ROS 环境
