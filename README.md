@@ -1,22 +1,16 @@
-需要安装
+# 🐾 Unitree Unity 控制项目
 
-unitree_sdk2_python;
+![Logo](https://example.com/logo.png)
 
-unitree_ros2;
+通过 Unity 与 ROS 实现 Unitree 机器人（G1/Go2）的实时控制与交互。
 
-ROS-TCP-Endpoint;
+## 🛠️ 安装依赖
 
-运行流程：
+请确保已经安装以下组件：
 
-source ros(包括ROS-TCP-Endpoint，unitree_ros2,系统 ros）
-
-
-启动Endpoint
-
-ros2 run ros_tcp_endpoint default_server_endpoint --ros-args -p ros__parameters.ros_tcp_port:=10000
+- **Unitree SDK 2 Python**
+- **unitree_ros2**
+- **ROS-TCP-Endpoint**
 
 
-运行对应的bridge.py
 
-
-运行unity
